@@ -1,5 +1,5 @@
 # Pong
-A clone of the famous old game written.
+A clone of the famous old game.
 
 ## Binaries
 You can download the game binaries below or test the experimental Web version directly in your browser!
