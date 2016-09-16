@@ -3,6 +3,7 @@ A clone of the famous old game written.
 
 ## Binaries
 You can download the game binaries below or test the experimental Web version directly in your browser!
+- OS X: https://jackbenfu.github.io/Pong-Unity/pong-osx.tar.gz
 - Windows: https://jackbenfu.github.io/Pong-Unity/pong-win.zip
 - Web: https://jackbenfu.github.io/Pong-Unity/pong.html
 
