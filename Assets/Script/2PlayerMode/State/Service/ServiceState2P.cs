@@ -72,7 +72,7 @@ namespace Pong.TwoPlayerMode.State.Service
             // Nothing
         }
 
-        public override void Update()
+        public override void Update(float deltaTime)
         {
             if (Input.GetKeyDown(KeyCode.Space))
             {

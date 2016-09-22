@@ -5,7 +5,7 @@ namespace Pong.Ball
 {
     public class BallScript : MonoBehaviour
     {
-        #region Public properties
+        #region Inspector
 
         [SerializeField]
         [Range(Const.BALL_SPEED_MIN, Const.BALL_SPEED_MAX)]

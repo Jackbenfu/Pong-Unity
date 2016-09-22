@@ -31,7 +31,7 @@ namespace Pong.StateMachine
 
         private void Update()
         {
-            currentState.Update();
+            currentState.Update(Time.deltaTime);
         }
 
         #endregion

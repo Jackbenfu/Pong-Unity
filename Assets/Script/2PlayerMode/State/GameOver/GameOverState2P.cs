@@ -50,7 +50,7 @@ namespace Pong.TwoPlayerMode.State.GameOver
             Context.GameOver.SetActive(false);
         }
 
-        public override void Update()
+        public override void Update(float deltaTime)
         {
             if (Input.GetKeyDown(KeyCode.Space))
             {

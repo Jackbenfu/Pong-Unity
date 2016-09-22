@@ -31,7 +31,7 @@ namespace Pong.OnePlayerMode.State.Rally
             // Nothing
         }
 
-        public override void Update()
+        public override void Update(float deltaTime)
         {
             if (ballTransform.position.x < paddleTransform.position.x - ballExitOffset)
             {

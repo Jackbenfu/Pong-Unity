@@ -52,7 +52,7 @@ namespace Pong.TwoPlayerMode.State.Rally
             // Nothing
         }
 
-        public override void Update()
+        public override void Update(float deltaTime)
         {
             var needToRestartRally = false;
             GameObject servingPaddle = null;

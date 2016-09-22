@@ -11,6 +11,6 @@
 
         public abstract void Exit();
 
-        public abstract void Update();
+        public abstract void Update(float deltaTime);
     }
 }
