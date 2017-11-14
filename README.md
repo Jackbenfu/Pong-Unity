@@ -8,4 +8,4 @@ You can download the game binaries below or test the experimental Web version di
 - Web: https://jackbenfu.github.io/Pong-Unity/pong.html
 
 ## How to play
-You can play alone (wall mode) or with your opponent on the same computer. There is no AI nor online mode.
+You can play alone (wall mode) or with your opponent on the same computer. There is no AI nor online mode. For a full version of the game, try the [C++ version](https://github.com/Jackbenfu/Pong).
